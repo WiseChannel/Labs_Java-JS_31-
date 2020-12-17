@@ -44,7 +44,7 @@ class Confirmed extends EducationGrant {
     }
 }
 
-class EducationGrant {
+class InitEducationGrant {
     constructor() {
         this.state = new WaitingForCreated();
     }
