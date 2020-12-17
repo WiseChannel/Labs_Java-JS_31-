@@ -49,4 +49,3 @@ class GameTetris {
 
 const init = new GameTetris()
 init.RandomSelection()
-// init.SuperFigure()
